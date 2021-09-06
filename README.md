@@ -1,0 +1,11 @@
+- 👋 Hi, My name is Ekaterina!
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking for a job as a Frontend Developer.
+- 📫 How to reach me: ekaterina.yu.bazhenova@gmail.com
+- :round_pushpin: Living in Novosibirsk, Russia
+
+<!---
+kathriciya/kathriciya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
