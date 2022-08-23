@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Ekaterina!
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking for a job as a Junior Frontend Developer.
+- 🌱 I’m currently learning NodeJS.
+- 💞️ I’m looking for a job as a Frontend Developer.
 - 📫 How to reach me: ekaterina.yu.bazhenova@gmail.com
 - :round_pushpin: Living in Novosibirsk, Russia
 
